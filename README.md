@@ -1,0 +1,2 @@
+# Data-Preparation-explorative-Datenanalyse
+Für die Domäne "Kinofilme und Serien" gibt es einige Schnittstellen (APIs) zu Datenbanken, die bequem über Python-Bibliotheken abgerufen werden können. Merkmale in den Datensätzen sind zum Beispiel Filmtitel, Genres, Bewertungen oder beteiligte Schauspieler:innen. In dieser Aufgabe sollen Sie die Daten mit deskriptiver Statistik untersuchen und in einem Python-Notebook visualisieren.
